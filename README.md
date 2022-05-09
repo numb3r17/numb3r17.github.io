@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo is an example of how you can host a website using *Github*. Feel free to *clone* it to create a starting point for your own place on the www.
+This repo is an example of how you can host a website using *Github*. Feel free to *clone* it to create a starting point for your own place on the 'World Wide Web' or take a look at this site in your browser to see how it renders - [numb3r17.github.com](numb3r17.github.com)
 
 ## ToDo
 
@@ -15,3 +15,7 @@ Can we set our own favicon?
 ### Landing Page
 
 Can we create a landing page?
+
+### Add Style
+
+How about a little CSS?
