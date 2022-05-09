@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo is an example of how you can host a website using *Github*. Feel free to *clone* it to create a starting point for your own place on the 'World Wide Web' or take a look at this site in your browser to see how it renders - [number17](https://numb3r17.github.io)
+This repo is an example of how you can host a website using *Github*. Feel free to *clone* it to create a starting point for your own place on the 'World Wide Web' or take a look at [number17](https://numb3r17.github.io) in your browser to see how it renders.
 
 ## ToDo
 
