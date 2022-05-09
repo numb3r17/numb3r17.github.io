@@ -18,4 +18,4 @@ Can we create a landing page?
 
 ### Add Style
 
-How about a little CSS?
+How about a little CSS to add some style?
